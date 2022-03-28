@@ -9,7 +9,9 @@
 </head>
 <body>
 <H1 class="a">ESTO ES UN TUITULO</H1>    
+    EDITADO EN GITHUB
 avance
+    <p>PARRAFO AGREGADO</p>
     Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi quae sit dolorem quia reprehenderit totam soluta at sint? Quibusdam magni assumenda totam obcaecati illum iste nostrum velit maiores repellat officiis.
 </body>
 </html>
